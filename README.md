@@ -41,3 +41,17 @@ Plots:
 - Loss Plot
 
   ![Accuracy Plot](demo/loss.jpg?raw=true)
+  
+ # Demo:
+ 
+ Image Demo:
+ 
+ ![Demo_Image](demo/final_model.png)
+ 
+ GIF DEMO:
+ 
+ ![GIF_DEMO](demo/demo1.gif)
+ 
+ Video Demo:
+ 
+ Proceed to: 
