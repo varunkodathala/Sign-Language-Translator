@@ -59,5 +59,5 @@ Plots:
  
  # Feedback
  
- Please provide your feedback by mailing to [my mail](varunrail1111@gmail.com) and Please bring to my notice if any mistakes were made. 
+ Please provide your feedback by mailing to (varunrail1111@gmail.com) and Please bring to my notice if any mistakes were made. 
  
