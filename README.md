@@ -18,3 +18,7 @@
 
 ![Model Summary](https://github.com/varunkodathala/Sign-Language-Translator/blob/master/demo/model_summary.png?raw=true)
 
+# Dataset:
+
+[Kaggle ASL Dataset](https://www.kaggle.com/grassknoted/asl-alphabet)
+
