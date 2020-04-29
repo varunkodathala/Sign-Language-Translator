@@ -10,7 +10,7 @@
 # Model:
 
 1. Image Access through webcam using opencv
-2. Predict the Image using trained CNN model.  [Model](https://github.com/varunkodathala/Sign-Language-Translator/blob/master/demo/gesture_model.h5)
+2. Predict the Image using trained CNN model.  [Model](https://github.com/varunkodathala/Sign-Language-Translator/blob/master/demo/gesture_model.h5?raw=true)
 3. Process the prediction and display back using opencv
 
 
