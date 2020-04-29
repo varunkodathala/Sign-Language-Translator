@@ -3,6 +3,7 @@
 
 # Sign Language refers to 
 
-! [IMAGE_1] (demo/1.jpg)
 
-! [IMAGE_2] (demo/2,jpg)
+![Image 1](https://github.com/varunkodathala/Sign-Language-Translator/blob/master/demo/1.jpg?raw=true)
+![Image 2](https://github.com/varunkodathala/Sign-Language-Translator/blob/master/demo/2.jpg?raw=true)
+
