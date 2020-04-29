@@ -35,5 +35,9 @@ class_labels = ['A','B','C','D','E','F','G','H','I','J','K','L',
 
 Plots:
 - Accuracy Plot
+  
+  ![Accuracy Plot](demo/acc.jpg?raw=true)
 
 - Loss Plot
+
+  ![Accuracy Plot](demo/loss.jpg?raw=true)
