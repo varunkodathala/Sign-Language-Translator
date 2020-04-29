@@ -1,5 +1,6 @@
 # Sign-Language-Translator
 
+This model is designated to translate the sign language used by voiceless people(mute) to audio using deep learning, computer vision and Image processing Techniques.
 
 # Sign Language refers to 
 
@@ -54,4 +55,9 @@ Plots:
  
  Video Demo:
  
- Proceed to: 
+ Proceed to: [Video](demo/final_video.mov?raw=true)
+ 
+ # Feedback
+ 
+ Please provide your feedback by mailing to [my mail](varunrail1111@gmail.com) and Please bring to my notice if any mistakes were made. 
+ 
